@@ -1,0 +1,12 @@
+html, body{
+    background-color: #142830;
+    color: white;
+    font-size: 16px;
+    padding: 40px;
+}
+
+button{
+    padding: 10px;
+    font-size: 18px;
+    margin-right: 5px;
+}

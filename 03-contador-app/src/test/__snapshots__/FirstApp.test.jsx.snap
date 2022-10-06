@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Firs App Test hacer match 1`] = `
+<div>
+  <h1>
+     
+    hola
+     
+  </h1>
+  <p>
+    Soy un subtitulo
+  </p>
+</div>
+`;
